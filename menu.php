@@ -10,7 +10,7 @@
           <a class="nav-link " aria-current="page" href="personne.php">Personne</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">Contact</a>
+          <a class="nav-link" href="test.php">Contact</a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="#">Se déconnecter</a>
