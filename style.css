@@ -1,0 +1,9 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.title{
+    text-transform: uppercase;
+    text-align: center;
+    padding: 30px;
+}
